@@ -22,7 +22,7 @@ public class LeituraArquivoLarguraFixaStepConfig {
 		
 		return stepBuilderFactory
 				.get("leituraArquivoLarguraFixaStep")
-				.<Cliente, Cliente>chunk(1)
+				.<Cliente, Cliente>chunk(4)
 				.reader(leituraArquivoLarguraFixaReader)
 				.writer(leituraArquivoLarguraFixaWriter)
 				.build();
