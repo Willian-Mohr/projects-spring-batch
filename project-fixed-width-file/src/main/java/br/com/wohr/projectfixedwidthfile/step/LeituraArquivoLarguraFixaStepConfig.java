@@ -12,7 +12,7 @@ import br.com.wohr.projectfixedwidthfile.domain.Cliente;
 
 @Configuration
 public class LeituraArquivoLarguraFixaStepConfig {
-	
+
 	@Autowired
 	public StepBuilderFactory stepBuilderFactory;
 
@@ -28,5 +28,5 @@ public class LeituraArquivoLarguraFixaStepConfig {
 				.build();
 		
 	}
-	
+
 }
