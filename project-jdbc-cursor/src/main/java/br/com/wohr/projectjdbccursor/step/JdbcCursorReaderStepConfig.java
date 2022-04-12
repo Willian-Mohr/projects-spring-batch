@@ -21,9 +21,12 @@ public class JdbcCursorReaderStepConfig {
 		
 		return stepBuilderFactory
 				.get("jdbcCursorReaderStep")
-				.<Cliente, Cliente>chunk(1)
+				.<Cliente, Cliente>chunk(11)
 				.reader(jdbcCursorReader)
 				.writer(jdbcCursorWriter)
+				.faultTolerant()
+				.skip(Exception.class)
+				.skipLimit(2)
 				.build();
 		
 	}
