@@ -18,13 +18,13 @@ public class LeituraArquivoDelimitadoStepConfig {
 
 	@Bean
 	public Step leituraArquivoDelimitadoStep(ItemReader<Cliente> leituraArquivoDelimitadoReader,
-			ItemWriter<Cliente> leituraArquivoDelimitadoWriter) {
+			ItemWriter<Cliente> arquivoDelimitadoWriter) {
 		
 		return stepBuilderFactory
 				.get("leituraArquivoDelimitadoStep")
 				.<Cliente, Cliente>chunk(1)
 				.reader(leituraArquivoDelimitadoReader)
-				.writer(leituraArquivoDelimitadoWriter)
+				.writer(arquivoDelimitadoWriter)
 				.build();
 		
 	}
