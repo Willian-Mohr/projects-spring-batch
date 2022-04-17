@@ -2,7 +2,7 @@ package br.com.wohr.projectbudgetstatement.step;
 
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
-import org.springframework.batch.item.ItemWriter;
+import org.springframework.batch.item.file.MultiResourceItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -20,12 +20,12 @@ public class DemonstrativoOrcamentarioStepConfig {
 	@Bean
 	public Step demonstrativoOrcamentarioStep(
 			GrupoLancamentoReader demonstrativoOrcamentarioReader,
-			ItemWriter<GrupoLancamento> demonstrativoOrcamentarioWriter,
+			MultiResourceItemWriter<GrupoLancamento> demonstrativoOrcamentarioWriter,
 			DemonstrativoOrcamentarioRodape rodapeCallback) {
 		
 		return stepBuilderFactory
 				.get("demonstrativoOrcamentarioStep")
-				.<GrupoLancamento,GrupoLancamento>chunk(100)
+				.<GrupoLancamento,GrupoLancamento>chunk(1)
 				.reader(demonstrativoOrcamentarioReader)
 				.writer(demonstrativoOrcamentarioWriter)
 				.listener(rodapeCallback)
