@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 import br.com.wohr.projectbudgetstatement.dominio.GrupoLancamento;
 import br.com.wohr.projectbudgetstatement.reader.GrupoLancamentoReader;
+import br.com.wohr.projectbudgetstatement.writer.DemonstrativoOrcamentarioRodape;
 
 @Configuration
 public class DemonstrativoOrcamentarioStepConfig {
@@ -19,13 +20,15 @@ public class DemonstrativoOrcamentarioStepConfig {
 	@Bean
 	public Step demonstrativoOrcamentarioStep(
 			GrupoLancamentoReader demonstrativoOrcamentarioReader,
-			ItemWriter<GrupoLancamento> demonstrativoOrcamentarioWriter) {
+			ItemWriter<GrupoLancamento> demonstrativoOrcamentarioWriter,
+			DemonstrativoOrcamentarioRodape rodapeCallback) {
 		
 		return stepBuilderFactory
 				.get("demonstrativoOrcamentarioStep")
 				.<GrupoLancamento,GrupoLancamento>chunk(100)
 				.reader(demonstrativoOrcamentarioReader)
 				.writer(demonstrativoOrcamentarioWriter)
+				.listener(rodapeCallback)
 				.build();
 	}
 }
