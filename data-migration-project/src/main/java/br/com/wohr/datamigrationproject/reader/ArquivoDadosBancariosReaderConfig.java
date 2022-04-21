@@ -1,7 +1,5 @@
 package br.com.wohr.datamigrationproject.reader;
 
-import java.util.Date;
-
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
@@ -12,7 +10,6 @@ import org.springframework.core.io.FileSystemResource;
 import org.springframework.validation.BindException;
 
 import br.com.wohr.datamigrationproject.domain.DadosBancarios;
-import br.com.wohr.datamigrationproject.domain.Pessoa;
 
 @Configuration
 public class ArquivoDadosBancariosReaderConfig {
