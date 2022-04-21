@@ -23,7 +23,7 @@ public class ArquivoPessoaReaderConfig {
 				.name("arquivoPessoaReader")
 				.resource(new FileSystemResource("files/pessoas.csv"))
 				.delimited()
-				.names("id", "idade", "nome", "email", "dataNascimento")
+				.names("nome", "email", "dataNascimento", "idade", "id")
 				.addComment("--")
 				.fieldSetMapper(fieldSetMapper())
 				.build();

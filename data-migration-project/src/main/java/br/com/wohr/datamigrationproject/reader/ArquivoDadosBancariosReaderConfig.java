@@ -1,12 +1,18 @@
 package br.com.wohr.datamigrationproject.reader;
 
+import java.util.Date;
+
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
+import org.springframework.batch.item.file.mapping.FieldSetMapper;
+import org.springframework.batch.item.file.transform.FieldSet;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
+import org.springframework.validation.BindException;
 
 import br.com.wohr.datamigrationproject.domain.DadosBancarios;
+import br.com.wohr.datamigrationproject.domain.Pessoa;
 
 @Configuration
 public class ArquivoDadosBancariosReaderConfig {
@@ -19,7 +25,26 @@ public class ArquivoDadosBancariosReaderConfig {
 				.delimited()
 				.names("pessoaId", "agencia", "conta", "banco", "id")
 				.addComment("--")
-				.targetType(DadosBancarios.class)
+				.fieldSetMapper(fieldSetMapper())
 				.build();
+	}
+
+	private FieldSetMapper<DadosBancarios> fieldSetMapper() {
+		
+		return new FieldSetMapper<DadosBancarios>() {
+
+			@Override
+			public DadosBancarios mapFieldSet(FieldSet fieldSet) throws BindException {
+				
+				DadosBancarios dadosBancarios = new DadosBancarios(
+						fieldSet.readInt("pessoaId"),
+						fieldSet.readInt("agencia"),
+						fieldSet.readInt("conta"),
+						fieldSet.readInt("banco"),
+						fieldSet.readInt("id"));
+				
+				return dadosBancarios;
+			}
+		};
 	}
 }

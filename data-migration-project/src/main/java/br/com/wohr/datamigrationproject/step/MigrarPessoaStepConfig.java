@@ -23,7 +23,7 @@ public class MigrarPessoaStepConfig {
 		
 		return stepBuilderFactory
 				.get("migrarPessoaStep")
-				.<Pessoa, Pessoa>chunk(1)
+				.<Pessoa, Pessoa>chunk(10000)
 				.reader(arquivoPessoaReader)
 				.writer(bancoPessoaWriter)
 				.build();

@@ -7,6 +7,6 @@ import lombok.Data;
 @AllArgsConstructor
 public class DadosBancarios {
 
-	private int id, pessoaId, agencia, conta, banco;
+	private int pessoaId, agencia, conta, banco, id;
 
 }
