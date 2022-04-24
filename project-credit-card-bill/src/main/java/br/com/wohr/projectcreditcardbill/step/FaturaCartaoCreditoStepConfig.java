@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
 import br.com.wohr.projectcreditcardbill.domain.FaturaCartaoCredito;
 import br.com.wohr.projectcreditcardbill.domain.Transacao;
 import br.com.wohr.projectcreditcardbill.reader.FaturaCartaoCreditoReader;
+import br.com.wohr.projectcreditcardbill.writer.TotalTransacoesFooterCallback;
 
 @Configuration
 public class FaturaCartaoCreditoStepConfig {
@@ -23,7 +24,8 @@ public class FaturaCartaoCreditoStepConfig {
 	public Step faturaCartaoCreditoStep(
 			ItemStreamReader<Transacao> lerTransacoesReader,
 			ItemProcessor<FaturaCartaoCredito, FaturaCartaoCredito> carregarDadosClienteProcessor,
-			ItemWriter<FaturaCartaoCredito> escreverFaturaCartaoCredito) {
+			ItemWriter<FaturaCartaoCredito> escreverFaturaCartaoCredito,
+			TotalTransacoesFooterCallback listener) {
 		
 		return stepBuilderFactory
 				.get("faturaCartaoCreditoStep")
@@ -31,6 +33,7 @@ public class FaturaCartaoCreditoStepConfig {
 				.reader(new FaturaCartaoCreditoReader(lerTransacoesReader))
 				.processor(carregarDadosClienteProcessor)
 				.writer(escreverFaturaCartaoCredito)
+				.listener(listener)
 				.build();
 	}
 }

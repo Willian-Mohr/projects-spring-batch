@@ -22,4 +22,9 @@ public class FaturaCartaoCredito {
 		this.cartaoCredito = cartaoCredito;
 		this.transacoes.add(transacoes);
 	}
+
+	public Double getTotal() {
+		
+		return transacoes.stream().mapToDouble(Transacao::getValor).reduce(0.0, Double::sum);
+	}
 }
