@@ -19,6 +19,8 @@ public class ProcessarEmailProdutoClienteProcessor implements ItemProcessor<Inte
 		email.setSubject("Promoção Imperdível !!!!");
 		email.setText(gerarTextoPromocao(interesseProdutoCliente));
 		
+		Thread.sleep(2000);
+		
 		return email;
 
 	}
