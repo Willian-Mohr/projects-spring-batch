@@ -9,65 +9,6 @@ Fatura completa do cartão: 9518222
 DATA DESCRIÇÃO VALOR 
 ---------------------------------------------------------------------------------------------------------------- 
 
-[12/11/1991] Est numquam sed voluptas vel velit consequatur.                                  - 4656.18
-[28/06/2005] Soluta quis at dolores iusto quidem consectetur.                                 - 3376.33
-[28/05/1976] Perspiciatis ipsum esse et nam dolorum sed.                                      - 2525.15
-[10/05/1981] Asperiores aut dolores et.                                                       - 1729.15
-[26/06/1991] Ea veniam et corrupti explicabo mollitia.                                        - 5074.88
-[01/09/1984] Est similique placeat beatae laudantium sed et blanditiis.                       - 4224.42
-[24/05/1980] Quidem facere deleniti et nobis.                                                 - 412.67
-[01/09/1980] Quis corporis ea consequatur quas voluptatum nihil possimus temporibus.          - 3433.02
-[31/10/2008] Quasi qui aut fugiat id voluptas sit ut.                                         - 178.59
-[16/06/1980] Quis consequatur laborum cupiditate ratione consequatur autem culpa.             - 2710.58
-[28/03/2003] At ab at corrupti aut sequi quas.                                                - 2098.84
-[28/05/1997] Est eius ut sit numquam optio cupiditate necessitatibus.                         - 1399.26
-[01/10/2008] Quia recusandae corrupti assumenda tempora adipisci rerum.                       - 5825.93
-[10/11/1976] Qui autem dicta blanditiis sequi.                                                - 1089.1
-[29/10/2004] Doloremque error sunt possimus numquam.                                          - 8830.92
-[05/08/1973] Consequuntur et sapiente exercitationem.                                         - 1753.01
-[23/08/2004] Debitis similique in maxime voluptatem.                                          - 9303.96
-[11/04/1997] Ea exercitationem recusandae rem et.                                             - 5623.46
-[15/04/2014] Doloribus non quo omnis nostrum ad.                                              - 5973.79
-[17/10/2015] Ut ab maxime nobis at eum voluptatem quod.                                       - 8499.77
-[11/07/1970] Ullam culpa enim repellendus et.                                                 - 334.87
-[12/08/2014] Molestiae molestiae est esse autem.                                              - 9370.91
-[02/10/1984] Ad qui voluptate quibusdam quae.                                                 - 5224.82
-[02/04/1998] Cum odit velit occaecati ratione laborum voluptas praesentium aut.               - 4581.88
-[29/11/1973] Et dolorem unde labore eum voluptate.                                            - 1693.02
-[12/11/1975] Cumque veritatis vitae maxime consequatur perferendis.                           - 4022.82
-[16/01/1970] Nobis corrupti ut sit deleniti dolores.                                          - 6005.59
-[11/12/1996] Rem voluptates ut voluptatem quam esse.                                          - 8807.22
-[22/05/1979] Magni praesentium rerum distinctio et sit qui.                                   - 5992.04
-[29/12/2006] Quia quo culpa dignissimos consequuntur.                                         - 4521.32
-[01/07/1997] Quas illum porro autem sit nesciunt dolorem quas qui.                            - 4067.06
-[25/10/2001] Corporis quidem qui ex et saepe ut quo.                                          - 3977.0
-[28/06/2002] Magni magni quas dolor temporibus labore incidunt.                               - 6379.52
-[15/01/1979] Omnis nemo itaque dolor animi.                                                   - 4692.65
-[08/07/1994] Quae voluptatum autem voluptates et.                                             - 2.38
-[15/02/2015] Dolorem molestias nesciunt voluptatem repudiandae aperiam.                       - 9215.85
-[19/06/1971] Amet fugit dolorem et voluptatem aliquid.                                        - 3053.75
-[14/12/1982] Nesciunt ullam iste maxime facere cum modi.                                      - 6906.47
-[20/12/1988] Alias aperiam nulla quaerat neque totam.                                         - 5875.81
-[04/02/1977] Impedit voluptatibus non suscipit itaque consequuntur ut voluptatem.             - 4407.97
-[19/02/1972] Autem adipisci numquam itaque.                                                   - 150.59
-[31/03/1972] Delectus nisi et neque iste.                                                     - 8346.81
-[28/10/1973] Dignissimos cumque quas minus commodi accusamus.                                 - 7209.73
-[04/05/1982] Recusandae sapiente voluptates ea non est.                                       - 4487.26
-[20/05/2009] Suscipit sed perspiciatis et exercitationem.                                     - 8811.02
-[06/01/2002] Sunt debitis consectetur ut ea ut.                                               - 8476.34
-[01/12/2008] Voluptas sit iure aspernatur id quidem rerum.                                    - 888.62
-[20/01/2004] Nihil unde est itaque cumque impedit vel.                                        - 3232.21
-[20/04/2015] Quos est sit natus sed cum tempore.                                              - 6388.74
-[04/01/1996] Rerum et incidunt et suscipit magni temporibus atque illum.                      - 9995.78
-[23/07/1984] A officia rem vero qui officiis.                                                 - 6209.7
-[30/03/2003] Quod autem aut beatae ab.                                                        - 3329.89
-[14/03/2018] Officia sit consequatur natus cumque est ut.                                     - 2562.17
-[24/03/1991] Voluptatem quod iusto officia tempora et sit.                                    - 4473.17
-[26/04/1983] Qui recusandae quis quos quas iusto.                                             - 737.86
-[26/09/1971] Laboriosam magni quam corrupti dolore et rem dolorum sint.                       - 6859.16
-[03/06/2003] Asperiores repellat voluptate officiis voluptates facere eum non.                - 1584.18
-[18/09/1995] Dolorem labore maiores sit perferendis voluptas corporis distinctio.             - 8745.66
-[09/09/2004] Enim cum quia repellendus quia est.                                              - 7769.06
 [21/09/1972] In perferendis esse doloribus quaerat laboriosam id.                             - 5968.19
 [25/04/1977] Quis officia deserunt velit voluptatem id incidunt.                              - 1382.55
 [21/10/1995] Qui optio nemo iure nihil.                                                       - 7945.89
@@ -1020,5 +961,64 @@ DATA DESCRIÇÃO VALOR
 [15/12/1998] Voluptas sapiente quis sed nulla adipisci.                                       - 5874.17
 [04/01/1989] Et recusandae sed incidunt suscipit.                                             - 7884.28
 [18/11/1976] Officia voluptas dicta sequi illum corporis et quo.                              - 3442.43
+[12/11/1991] Est numquam sed voluptas vel velit consequatur.                                  - 4656.18
+[28/06/2005] Soluta quis at dolores iusto quidem consectetur.                                 - 3376.33
+[28/05/1976] Perspiciatis ipsum esse et nam dolorum sed.                                      - 2525.15
+[10/05/1981] Asperiores aut dolores et.                                                       - 1729.15
+[26/06/1991] Ea veniam et corrupti explicabo mollitia.                                        - 5074.88
+[01/09/1984] Est similique placeat beatae laudantium sed et blanditiis.                       - 4224.42
+[24/05/1980] Quidem facere deleniti et nobis.                                                 - 412.67
+[01/09/1980] Quis corporis ea consequatur quas voluptatum nihil possimus temporibus.          - 3433.02
+[31/10/2008] Quasi qui aut fugiat id voluptas sit ut.                                         - 178.59
+[16/06/1980] Quis consequatur laborum cupiditate ratione consequatur autem culpa.             - 2710.58
+[28/03/2003] At ab at corrupti aut sequi quas.                                                - 2098.84
+[28/05/1997] Est eius ut sit numquam optio cupiditate necessitatibus.                         - 1399.26
+[01/10/2008] Quia recusandae corrupti assumenda tempora adipisci rerum.                       - 5825.93
+[10/11/1976] Qui autem dicta blanditiis sequi.                                                - 1089.1
+[29/10/2004] Doloremque error sunt possimus numquam.                                          - 8830.92
+[05/08/1973] Consequuntur et sapiente exercitationem.                                         - 1753.01
+[23/08/2004] Debitis similique in maxime voluptatem.                                          - 9303.96
+[11/04/1997] Ea exercitationem recusandae rem et.                                             - 5623.46
+[15/04/2014] Doloribus non quo omnis nostrum ad.                                              - 5973.79
+[17/10/2015] Ut ab maxime nobis at eum voluptatem quod.                                       - 8499.77
+[11/07/1970] Ullam culpa enim repellendus et.                                                 - 334.87
+[12/08/2014] Molestiae molestiae est esse autem.                                              - 9370.91
+[02/10/1984] Ad qui voluptate quibusdam quae.                                                 - 5224.82
+[02/04/1998] Cum odit velit occaecati ratione laborum voluptas praesentium aut.               - 4581.88
+[29/11/1973] Et dolorem unde labore eum voluptate.                                            - 1693.02
+[12/11/1975] Cumque veritatis vitae maxime consequatur perferendis.                           - 4022.82
+[16/01/1970] Nobis corrupti ut sit deleniti dolores.                                          - 6005.59
+[11/12/1996] Rem voluptates ut voluptatem quam esse.                                          - 8807.22
+[22/05/1979] Magni praesentium rerum distinctio et sit qui.                                   - 5992.04
+[29/12/2006] Quia quo culpa dignissimos consequuntur.                                         - 4521.32
+[01/07/1997] Quas illum porro autem sit nesciunt dolorem quas qui.                            - 4067.06
+[25/10/2001] Corporis quidem qui ex et saepe ut quo.                                          - 3977.0
+[28/06/2002] Magni magni quas dolor temporibus labore incidunt.                               - 6379.52
+[15/01/1979] Omnis nemo itaque dolor animi.                                                   - 4692.65
+[08/07/1994] Quae voluptatum autem voluptates et.                                             - 2.38
+[15/02/2015] Dolorem molestias nesciunt voluptatem repudiandae aperiam.                       - 9215.85
+[19/06/1971] Amet fugit dolorem et voluptatem aliquid.                                        - 3053.75
+[14/12/1982] Nesciunt ullam iste maxime facere cum modi.                                      - 6906.47
+[20/12/1988] Alias aperiam nulla quaerat neque totam.                                         - 5875.81
+[04/02/1977] Impedit voluptatibus non suscipit itaque consequuntur ut voluptatem.             - 4407.97
+[19/02/1972] Autem adipisci numquam itaque.                                                   - 150.59
+[31/03/1972] Delectus nisi et neque iste.                                                     - 8346.81
+[28/10/1973] Dignissimos cumque quas minus commodi accusamus.                                 - 7209.73
+[04/05/1982] Recusandae sapiente voluptates ea non est.                                       - 4487.26
+[20/05/2009] Suscipit sed perspiciatis et exercitationem.                                     - 8811.02
+[06/01/2002] Sunt debitis consectetur ut ea ut.                                               - 8476.34
+[01/12/2008] Voluptas sit iure aspernatur id quidem rerum.                                    - 888.62
+[20/01/2004] Nihil unde est itaque cumque impedit vel.                                        - 3232.21
+[20/04/2015] Quos est sit natus sed cum tempore.                                              - 6388.74
+[04/01/1996] Rerum et incidunt et suscipit magni temporibus atque illum.                      - 9995.78
+[23/07/1984] A officia rem vero qui officiis.                                                 - 6209.7
+[30/03/2003] Quod autem aut beatae ab.                                                        - 3329.89
+[14/03/2018] Officia sit consequatur natus cumque est ut.                                     - 2562.17
+[24/03/1991] Voluptatem quod iusto officia tempora et sit.                                    - 4473.17
+[26/04/1983] Qui recusandae quis quos quas iusto.                                             - 737.86
+[26/09/1971] Laboriosam magni quam corrupti dolore et rem dolorum sint.                       - 6859.16
+[03/06/2003] Asperiores repellat voluptate officiis voluptates facere eum non.                - 1584.18
+[18/09/1995] Dolorem labore maiores sit perferendis voluptas corporis distinctio.             - 8745.66
+[09/09/2004] Enim cum quia repellendus quia est.                                              - 7769.06
 
-                                                                                                  Total: 5235841.679999998
+                                                                                                  Total: 5235841.679999996

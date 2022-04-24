@@ -9,20 +9,6 @@ Fatura completa do cartão: 6858890
 DATA DESCRIÇÃO VALOR 
 ---------------------------------------------------------------------------------------------------------------- 
 
-[13/10/1989] In omnis qui sed dignissimos molestiae.                                          - 4047.04
-[14/04/1974] Tempore animi fugiat et blanditiis rerum libero aut et.                          - 4211.95
-[01/07/2014] Temporibus vitae quidem cum velit.                                               - 142.59
-[08/02/2016] Non natus id tenetur et soluta nemo.                                             - 9476.43
-[15/07/1987] Mollitia ab iusto illum cumque aliquid id.                                       - 5047.91
-[04/08/1970] Quasi blanditiis aut in dolor id error fugit sit.                                - 3840.54
-[15/11/2016] Sit hic molestias reprehenderit possimus.                                        - 688.19
-[05/11/2004] Mollitia voluptas nobis eos dolores veritatis.                                   - 8848.85
-[02/11/1987] Quia ut explicabo quis.                                                          - 70.17
-[04/01/2009] Architecto aut consequuntur natus adipisci saepe.                                - 8844.67
-[27/08/2006] Omnis repellat consequatur quis dignissimos et consequatur vero.                 - 706.34
-[29/04/2018] Sit aliquid pariatur est.                                                        - 204.59
-[29/11/1988] Ratione itaque consequatur consequatur quas magnam.                              - 9622.62
-[04/11/2008] Ut dolorum blanditiis pariatur dicta eos temporibus doloremque.                  - 1921.1
 [11/02/2001] Laboriosam mollitia ducimus sit.                                                 - 7878.76
 [26/10/2009] Assumenda aut at aperiam.                                                        - 3903.67
 [04/09/2016] Aperiam id impedit deleniti officiis.                                            - 3537.83
@@ -1007,5 +993,19 @@ DATA DESCRIÇÃO VALOR
 [06/05/1993] Optio animi explicabo qui ex tempore architecto accusantium.                     - 6499.03
 [10/12/2003] Est reiciendis fugit ut ut nostrum reprehenderit.                                - 2716.85
 [05/06/2017] Adipisci aperiam sed quam blanditiis.                                            - 9286.11
+[13/10/1989] In omnis qui sed dignissimos molestiae.                                          - 4047.04
+[14/04/1974] Tempore animi fugiat et blanditiis rerum libero aut et.                          - 4211.95
+[01/07/2014] Temporibus vitae quidem cum velit.                                               - 142.59
+[08/02/2016] Non natus id tenetur et soluta nemo.                                             - 9476.43
+[15/07/1987] Mollitia ab iusto illum cumque aliquid id.                                       - 5047.91
+[04/08/1970] Quasi blanditiis aut in dolor id error fugit sit.                                - 3840.54
+[15/11/2016] Sit hic molestias reprehenderit possimus.                                        - 688.19
+[05/11/2004] Mollitia voluptas nobis eos dolores veritatis.                                   - 8848.85
+[02/11/1987] Quia ut explicabo quis.                                                          - 70.17
+[04/01/2009] Architecto aut consequuntur natus adipisci saepe.                                - 8844.67
+[27/08/2006] Omnis repellat consequatur quis dignissimos et consequatur vero.                 - 706.34
+[29/04/2018] Sit aliquid pariatur est.                                                        - 204.59
+[29/11/1988] Ratione itaque consequatur consequatur quas magnam.                              - 9622.62
+[04/11/2008] Ut dolorum blanditiis pariatur dicta eos temporibus doloremque.                  - 1921.1
 
-                                                                                                  Total: 5057124.619999995
+                                                                                                  Total: 5057124.619999994

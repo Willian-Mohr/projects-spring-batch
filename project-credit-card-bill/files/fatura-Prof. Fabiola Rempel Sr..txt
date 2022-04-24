@@ -9,22 +9,6 @@ Fatura completa do cartão: 2811036
 DATA DESCRIÇÃO VALOR 
 ---------------------------------------------------------------------------------------------------------------- 
 
-[23/07/1975] Accusamus eaque ex est et culpa ut eaque error.                                  - 1630.14
-[15/05/1990] Et aspernatur itaque vitae ex incidunt molestiae.                                - 5735.64
-[13/10/2014] Ab voluptatem aut nemo provident.                                                - 9878.66
-[24/07/2015] Commodi animi quisquam modi quod tenetur.                                        - 9275.81
-[10/12/2002] Earum ipsa hic molestiae.                                                        - 2941.18
-[11/04/2008] Repellat consequatur ea odio dolor.                                              - 1144.25
-[24/09/2001] Occaecati nobis optio illum et.                                                  - 9036.49
-[04/10/1981] Eos ipsum facilis sint saepe expedita.                                           - 9475.5
-[17/08/1981] Blanditiis ipsam eum in doloribus non nostrum et.                                - 2413.1
-[02/10/1987] Ut laborum rerum incidunt explicabo consequatur quas.                            - 1043.95
-[30/04/1984] Amet eaque quas iste nam.                                                        - 6409.55
-[18/10/1993] Molestiae odit totam molestiae aut.                                              - 7109.23
-[23/09/1990] Esse quos fugiat enim praesentium ab alias mollitia officia.                     - 2897.5
-[13/06/1988] Voluptas eos est ad omnis.                                                       - 5264.36
-[10/10/2012] Aut deserunt similique in dolorem enim sit veritatis.                            - 5122.12
-[22/08/2007] Facere quam dolor accusamus quasi sit autem.                                     - 1472.66
 [15/03/1971] Repellendus nam rerum facere ex.                                                 - 1152.43
 [23/04/2000] Est cupiditate iste minus voluptas similique.                                    - 6158.83
 [08/11/2010] Amet consequatur facere optio velit atque.                                       - 8715.17
@@ -988,5 +972,21 @@ DATA DESCRIÇÃO VALOR
 [10/12/2004] Fugit esse dolorum voluptatem ab magnam quia aut qui.                            - 2466.43
 [18/09/2001] Recusandae et quia repudiandae nostrum alias quaerat unde.                       - 4301.75
 [17/02/1970] Et iusto enim maxime ratione similique rerum asperiores.                         - 2416.74
+[23/07/1975] Accusamus eaque ex est et culpa ut eaque error.                                  - 1630.14
+[15/05/1990] Et aspernatur itaque vitae ex incidunt molestiae.                                - 5735.64
+[13/10/2014] Ab voluptatem aut nemo provident.                                                - 9878.66
+[24/07/2015] Commodi animi quisquam modi quod tenetur.                                        - 9275.81
+[10/12/2002] Earum ipsa hic molestiae.                                                        - 2941.18
+[11/04/2008] Repellat consequatur ea odio dolor.                                              - 1144.25
+[24/09/2001] Occaecati nobis optio illum et.                                                  - 9036.49
+[04/10/1981] Eos ipsum facilis sint saepe expedita.                                           - 9475.5
+[17/08/1981] Blanditiis ipsam eum in doloribus non nostrum et.                                - 2413.1
+[02/10/1987] Ut laborum rerum incidunt explicabo consequatur quas.                            - 1043.95
+[30/04/1984] Amet eaque quas iste nam.                                                        - 6409.55
+[18/10/1993] Molestiae odit totam molestiae aut.                                              - 7109.23
+[23/09/1990] Esse quos fugiat enim praesentium ab alias mollitia officia.                     - 2897.5
+[13/06/1988] Voluptas eos est ad omnis.                                                       - 5264.36
+[10/10/2012] Aut deserunt similique in dolorem enim sit veritatis.                            - 5122.12
+[22/08/2007] Facere quam dolor accusamus quasi sit autem.                                     - 1472.66
 
                                                                                                   Total: 4794830.819999994

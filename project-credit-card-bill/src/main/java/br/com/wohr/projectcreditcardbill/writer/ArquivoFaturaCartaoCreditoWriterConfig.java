@@ -3,7 +3,9 @@ package br.com.wohr.projectcreditcardbill.writer;
 import java.io.IOException;
 import java.io.Writer;
 import java.text.SimpleDateFormat;
+import java.util.List;
 
+import org.springframework.batch.core.annotation.BeforeWrite;
 import org.springframework.batch.item.file.FlatFileFooterCallback;
 import org.springframework.batch.item.file.FlatFileHeaderCallback;
 import org.springframework.batch.item.file.FlatFileItemWriter;
@@ -16,39 +18,45 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
 
+import br.com.wohr.projectcreditcardbill.domain.Cliente;
 import br.com.wohr.projectcreditcardbill.domain.FaturaCartaoCredito;
 import br.com.wohr.projectcreditcardbill.domain.Transacao;
 
 @Configuration
-public class ArquivoFaturaCartaoCreditoWriterConfig {
+public class ArquivoFaturaCartaoCreditoWriterConfig extends MultiResourceItemWriter<Cliente> {
 	
 	private SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+	private Cliente cliente;
 	
 	@Bean
 	public MultiResourceItemWriter<FaturaCartaoCredito> arquivosFaturaCartaoCredito(){
 		
 		return new MultiResourceItemWriterBuilder<FaturaCartaoCredito>()
 				.name("arquivosFaturaCartaoCredito")
-				.resource(new FileSystemResource("files/fatura"))
+				.resource(new FileSystemResource("files/fatura-"))
 				.itemCountLimitPerResource(1)
-				.resourceSuffixCreator(suffixCreator())
+				.resourceSuffixCreator(customMultiResourceItemWriter())
 				.delegate(arquivoFaturaCartaoCredito())
 				.build();
 		
 	}
 
-	private ResourceSuffixCreator suffixCreator() {
+	private ResourceSuffixCreator customMultiResourceItemWriter() {
 		
 		return new ResourceSuffixCreator() {
 			
 			@Override
 			public String getSuffix(int index) {
-				
-				return index + ".txt";
+				return cliente == null? ".txt" : cliente.getNome() + ".txt";
 			}
 		};
 	}
 	
+	@BeforeWrite
+	public void beforeWrite(List<FaturaCartaoCredito> pessoas) {
+		cliente = pessoas.get(0).getCliente();
+	}
+
 	private FlatFileItemWriter<FaturaCartaoCredito> arquivoFaturaCartaoCredito() {
 		
 		return new FlatFileItemWriterBuilder<FaturaCartaoCredito>()

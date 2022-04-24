@@ -5,10 +5,12 @@ import org.springframework.batch.core.configuration.annotation.StepBuilderFactor
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemStreamReader;
 import org.springframework.batch.item.ItemWriter;
+import org.springframework.batch.item.file.MultiResourceItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import br.com.wohr.projectcreditcardbill.domain.Cliente;
 import br.com.wohr.projectcreditcardbill.domain.FaturaCartaoCredito;
 import br.com.wohr.projectcreditcardbill.domain.Transacao;
 import br.com.wohr.projectcreditcardbill.reader.FaturaCartaoCreditoReader;
@@ -25,7 +27,8 @@ public class FaturaCartaoCreditoStepConfig {
 			ItemStreamReader<Transacao> lerTransacoesReader,
 			ItemProcessor<FaturaCartaoCredito, FaturaCartaoCredito> carregarDadosClienteProcessor,
 			ItemWriter<FaturaCartaoCredito> escreverFaturaCartaoCredito,
-			TotalTransacoesFooterCallback listener) {
+			TotalTransacoesFooterCallback listener,
+			MultiResourceItemWriter<Cliente> cliente) {
 		
 		return stepBuilderFactory
 				.get("faturaCartaoCreditoStep")
@@ -34,6 +37,7 @@ public class FaturaCartaoCreditoStepConfig {
 				.processor(carregarDadosClienteProcessor)
 				.writer(escreverFaturaCartaoCredito)
 				.listener(listener)
+				.listener(cliente)
 				.build();
 	}
 }

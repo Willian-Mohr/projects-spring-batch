@@ -9,25 +9,6 @@ Fatura completa do cartão: 8993115
 DATA DESCRIÇÃO VALOR 
 ---------------------------------------------------------------------------------------------------------------- 
 
-[28/12/2007] Debitis ut a at adipisci officia distinctio ut.                                  - 3748.4
-[08/01/2019] Tenetur voluptatem consequatur ut ut.                                            - 4288.73
-[01/04/2000] Voluptatem minima quas enim sit id perspiciatis.                                 - 2469.38
-[21/02/1990] Iure sint quo ut ullam.                                                          - 9102.81
-[13/04/1988] Aliquid animi velit qui dolore non voluptas consequatur voluptatem.              - 1956.94
-[20/03/1987] Tempore consequatur deserunt sit id molestiae et.                                - 3417.14
-[28/07/2013] Nulla quisquam quis ut expedita a accusantium.                                   - 7892.14
-[23/09/1974] Vitae aut nemo eveniet suscipit ipsa voluptates.                                 - 1136.05
-[28/05/2005] Eaque perferendis ut qui sapiente eius dolor id enim.                            - 1393.42
-[19/09/1974] Sit illum rerum pariatur est dolorem omnis magni.                                - 3429.18
-[14/02/1998] Debitis placeat magni quae nostrum ab.                                           - 2394.27
-[28/08/1981] Tenetur quasi eligendi cupiditate consequatur officiis.                          - 4952.17
-[24/09/1975] Cupiditate vel ab animi et asperiores saepe.                                     - 8679.52
-[21/10/1992] Illum recusandae ea in illo omnis accusamus.                                     - 5094.51
-[19/11/1994] Porro vel necessitatibus ut ex at pariatur.                                      - 9333.14
-[10/01/1993] Dolor est corporis occaecati id accusantium est fugiat.                          - 8111.22
-[21/08/1977] Aut dolor aut veritatis sed ratione.                                             - 9227.08
-[08/10/1980] Omnis quo non dolorem aspernatur.                                                - 661.67
-[01/12/2014] Dicta iste quia qui repudiandae.                                                 - 877.27
 [15/01/2012] Ad quia nesciunt explicabo in.                                                   - 9279.16
 [23/11/1970] Illo in voluptatem dolorum aliquid.                                              - 1844.73
 [25/05/1977] Illo qui voluptates aspernatur.                                                  - 1053.2
@@ -1003,5 +984,24 @@ DATA DESCRIÇÃO VALOR
 [27/09/2007] Magnam maxime est placeat sed sequi tempore omnis laudantium.                    - 6202.26
 [21/01/1999] Voluptates est eligendi et.                                                      - 7207.56
 [07/07/2012] Quaerat dolores odit sunt ut.                                                    - 7330.31
+[28/12/2007] Debitis ut a at adipisci officia distinctio ut.                                  - 3748.4
+[08/01/2019] Tenetur voluptatem consequatur ut ut.                                            - 4288.73
+[01/04/2000] Voluptatem minima quas enim sit id perspiciatis.                                 - 2469.38
+[21/02/1990] Iure sint quo ut ullam.                                                          - 9102.81
+[13/04/1988] Aliquid animi velit qui dolore non voluptas consequatur voluptatem.              - 1956.94
+[20/03/1987] Tempore consequatur deserunt sit id molestiae et.                                - 3417.14
+[28/07/2013] Nulla quisquam quis ut expedita a accusantium.                                   - 7892.14
+[23/09/1974] Vitae aut nemo eveniet suscipit ipsa voluptates.                                 - 1136.05
+[28/05/2005] Eaque perferendis ut qui sapiente eius dolor id enim.                            - 1393.42
+[19/09/1974] Sit illum rerum pariatur est dolorem omnis magni.                                - 3429.18
+[14/02/1998] Debitis placeat magni quae nostrum ab.                                           - 2394.27
+[28/08/1981] Tenetur quasi eligendi cupiditate consequatur officiis.                          - 4952.17
+[24/09/1975] Cupiditate vel ab animi et asperiores saepe.                                     - 8679.52
+[21/10/1992] Illum recusandae ea in illo omnis accusamus.                                     - 5094.51
+[19/11/1994] Porro vel necessitatibus ut ex at pariatur.                                      - 9333.14
+[10/01/1993] Dolor est corporis occaecati id accusantium est fugiat.                          - 8111.22
+[21/08/1977] Aut dolor aut veritatis sed ratione.                                             - 9227.08
+[08/10/1980] Omnis quo non dolorem aspernatur.                                                - 661.67
+[01/12/2014] Dicta iste quia qui repudiandae.                                                 - 877.27
 
-                                                                                                 Total: 5000015.3799999915
+                                                                                                  Total: 5000015.379999991
